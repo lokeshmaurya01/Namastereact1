@@ -1,3 +1,4 @@
+
 const heading=React.createElement("h1",{id:"heading"},"Hello world from Lokesh Maurya");// creating element in react
 // console.log(heading) --> It will retutn a React Element=> Javascript object
 
